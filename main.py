@@ -1,3 +1,3 @@
-from Core.Main import Start
+from Core.lead import Start
 
 Start(web=True)
